@@ -1,6 +1,8 @@
 # NgrxStorageExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+Please look at the online Tutorial:
+https://mschuer.de/angular-state-management-mit-ngrx/
 
 ## Development server
 
